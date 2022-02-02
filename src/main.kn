@@ -1,0 +1,4 @@
+#import sys;
+
+sys.read("Hello: ", hello);
+sys.logln(hello);
